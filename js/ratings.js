@@ -13,9 +13,7 @@ function collect_ratings() {
 document.querySelectorAll() = rating;
 
 let elements = [];
-elements.forEach(myFunction);
-
 function myfunction(element) {
-    
+
     
 }
